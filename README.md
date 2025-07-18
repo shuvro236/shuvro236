@@ -1,16 +1,23 @@
-## Hi there 👋
+# Shuvro Sarker
 
-<!--
-**shuvro236/shuvro236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**  
+Expertise: React, Blockchain, 3D Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### **Agrochain**
+Blockchain-based agriculture software designed to revolutionize the farming industry with secure, transparent, and efficient solutions.
+
+---
+
+## 🌐 Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/shuvro-sarker-854805215)
+
+---
+
+## 🧩 Hobbies
+
+Solving unsolved problems
