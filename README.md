@@ -22,8 +22,7 @@
 </li>
 <li>
 <p>💬 Ask me about Sql, Java, C#, JavaScript</p>
-</li><div class="google-auto-placed ap_container" style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: auto; background-color: transparent; height: 280px;" data-ad-status="unfilled"><div id="aswift_3_host" style="border: none; height: 280px; width: 1118px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"> title="Advertisement" aria-label="Advertisement" data-google-query-id="COTj_paczI4DFaCNrAIdOzIiJQ" data-load-complete="true"></iframe></div></ins></div>
-<li>
+</li><div class="google-auto-placed ap_container" style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: auto; background-color: transparent; height: 280px;" data-ad-status="unfilled"><div id="aswift_3_host" style="border: none; height: 280px; width: 1118px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"> 
 <p>⚡ Fun fact: Me gustan los girasoles.</p>
 </li>
 </ul>
